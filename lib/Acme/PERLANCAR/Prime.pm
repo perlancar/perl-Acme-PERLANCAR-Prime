@@ -77,5 +77,5 @@ This distribution is created for testing only.
 
 =head2 primes([ $base, ] $num) => list
 
-Return prime numbers (from C<$base> if specified) that are less or equal to
+Return prime numbers (from C<$base> if specified) that are less than or equal to
 C<$num>.
